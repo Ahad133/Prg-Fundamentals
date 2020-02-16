@@ -1,0 +1,10 @@
+a=50
+b=4
+add=(a+b)
+sub=(a-b)
+multi=(a*b)
+div=(a/b)
+print("",a,"+",b,"=",add)
+print("",a,"-",b,"=",sub)
+print("",a,"*",b,"=",multi)
+print("",a,"/",b,"=",div)

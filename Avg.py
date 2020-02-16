@@ -1,0 +1,5 @@
+a=eval(input("Enter Number 1: "))
+b=eval(input("Enter Number 2: "))
+c=eval(input("Enter Number 3: "))
+avg=((a+b+c)/3)
+print("Average=",avg)

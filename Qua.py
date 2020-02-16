@@ -1,0 +1,7 @@
+a=eval(input("Enter Number 1: "))
+b=eval(input("Enter Number 2: "))
+c=eval(input("Enter Number 3: "))
+ans1=(-b+[(b**2-4*a*c)**0.5)]/2*a)
+ans2=(-b-[(b**2-4*a*c)**0.5)]/2*a)
+print(ans1)
+print(ans2)
